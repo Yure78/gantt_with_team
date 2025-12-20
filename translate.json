@@ -1,0 +1,199 @@
+{
+  "pt": {
+    "native_name": "Português",
+    "hoje": "Hoje",
+    "grafico_gantt": "Gráfico de Gantt",
+    "equipe": "Equipe",
+    "tarefa": "Tarefa",
+    "meses": ["Janeiro","Fevereiro","Março","Abril","Maio","Junho","Julho","Agosto","Setembro","Outubro","Novembro","Dezembro"],
+    "meses_abreviados": ["Jan","Fev","Mar","Abr","Mai","Jun","Jul","Ago","Set","Out","Nov","Dez"],
+    "dias_semana": ["Segunda-Feira","Terça-Feira","Quarta-Feira","Quinta-Feira","Sexta-Feira","Sábado","Domingo"]
+  },
+
+  "en": {
+    "native_name": "English",
+    "hoje": "Today",
+    "grafico_gantt": "Gantt Chart",
+    "equipe": "Team",
+    "tarefa": "Task",
+    "meses": ["January","February","March","April","May","June","July","August","September","October","November","December"],
+    "meses_abreviados": ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+    "dias_semana": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"]
+  },
+
+  "es": {
+    "native_name": "Español",
+    "hoje": "Hoy",
+    "grafico_gantt": "Diagrama de Gantt",
+    "equipe": "Equipo",
+    "tarefa": "Tarea",
+    "meses": ["Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre"],
+    "meses_abreviados": ["Ene","Feb","Mar","Abr","May","Jun","Jul","Ago","Sep","Oct","Nov","Dic"],
+    "dias_semana": ["Lunes","Martes","Miércoles","Jueves","Viernes","Sábado","Domingo"]
+  },
+
+  "fr": {
+    "native_name": "Français",
+    "hoje": "Aujourd'hui",
+    "grafico_gantt": "Diagramme de Gantt",
+    "equipe": "Équipe",
+    "tarefa": "Tâche",
+    "meses": ["Janvier","Février","Mars","Avril","Mai","Juin","Juillet","Août","Septembre","Octobre","Novembre","Décembre"],
+    "meses_abreviados": ["Jan","Fév","Mar","Avr","Mai","Jun","Jul","Aoû","Sep","Oct","Nov","Déc"],
+    "dias_semana": ["Lundi","Mardi","Mercredi","Jeudi","Vendredi","Samedi","Dimanche"]
+  },
+
+  "de": {
+    "native_name": "Deutsch",
+    "hoje": "Heute",
+    "grafico_gantt": "Gantt-Diagramm",
+    "equipe": "Team",
+    "tarefa": "Aufgabe",
+    "meses": ["Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],
+    "meses_abreviados": ["Jan","Feb","Mär","Apr","Mai","Jun","Jul","Aug","Sep","Okt","Nov","Dez"],
+    "dias_semana": ["Montag","Dienstag","Mittwoch","Donnerstag","Freitag","Samstag","Sonntag"]
+  },
+
+  "it": {
+    "native_name": "Italiano",
+    "hoje": "Oggi",
+    "grafico_gantt": "Diagramma di Gantt",
+    "equipe": "Squadra",
+    "tarefa": "Compito",
+    "meses": ["Gennaio","Febbraio","Marzo","Aprile","Maggio","Giugno","Luglio","Agosto","Settembre","Ottobre","Novembre","Dicembre"],
+    "meses_abreviados": ["Gen","Feb","Mar","Apr","Mag","Giu","Lug","Ago","Set","Ott","Nov","Dic"],
+    "dias_semana": ["Lunedì","Martedì","Mercoledì","Giovedì","Venerdì","Sabato","Domenica"]
+  },
+
+  "nl": {
+    "native_name": "Nederlands",
+    "hoje": "Vandaag",
+    "grafico_gantt": "Gantt-diagram",
+    "equipe": "Team",
+    "tarefa": "Taak",
+    "meses": ["Januari","Februari","Maart","April","Mei","Juni","Juli","Augustus","September","Oktober","November","December"],
+    "meses_abreviados": ["Jan","Feb","Mrt","Apr","Mei","Jun","Jul","Aug","Sep","Okt","Nov","Dec"],
+    "dias_semana": ["Maandag","Dinsdag","Woensdag","Donderdag","Vrijdag","Zaterdag","Zondag"]
+  },
+
+  "sv": {
+    "native_name": "Svenska",
+    "hoje": "Idag",
+    "grafico_gantt": "Gantt-schema",
+    "equipe": "Team",
+    "tarefa": "Uppgift",
+    "meses": ["Januari","Februari","Mars","April","Maj","Juni","Juli","Augusti","September","Oktober","November","December"],
+    "meses_abreviados": ["Jan","Feb","Mar","Apr","Maj","Jun","Jul","Aug","Sep","Okt","Nov","Dec"],
+    "dias_semana": ["Måndag","Tisdag","Onsdag","Torsdag","Fredag","Lördag","Söndag"]
+  },
+
+  "no": {
+    "native_name": "Norsk",
+    "hoje": "I dag",
+    "grafico_gantt": "Gantt-diagram",
+    "equipe": "Team",
+    "tarefa": "Oppgave",
+    "meses": ["Januar","Februar","Mars","April","Mai","Juni","Juli","August","September","Oktober","November","Desember"],
+    "meses_abreviados": ["Jan","Feb","Mar","Apr","Mai","Jun","Jul","Aug","Sep","Okt","Nov","Des"],
+    "dias_semana": ["Mandag","Tirsdag","Onsdag","Torsdag","Fredag","Lørdag","Søndag"]
+  },
+
+  "da": {
+    "native_name": "Dansk",
+    "hoje": "I dag",
+    "grafico_gantt": "Gantt-diagram",
+    "equipe": "Team",
+    "tarefa": "Opgave",
+    "meses": ["Januar","Februar","Marts","April","Maj","Juni","Juli","August","September","Oktober","November","December"],
+    "meses_abreviados": ["Jan","Feb","Mar","Apr","Maj","Jun","Jul","Aug","Sep","Okt","Nov","Dec"],
+    "dias_semana": ["Mandag","Tirsdag","Onsdag","Torsdag","Fredag","Lørdag","Søndag"]
+  },
+
+  "fi": {
+    "native_name": "Suomi",
+    "hoje": "Tänään",
+    "grafico_gantt": "Gantt-kaavio",
+    "equipe": "Tiimi",
+    "tarefa": "Tehtävä",
+    "meses": ["Tammikuu","Helmikuu","Maaliskuu","Huhtikuu","Toukokuu","Kesäkuu","Heinäkuu","Elokuu","Syyskuu","Lokakuu","Marraskuu","Joulukuu"],
+    "meses_abreviados": ["Tam","Hel","Maa","Huh","Tou","Kes","Hei","Elo","Syy","Lok","Mar","Jou"],
+    "dias_semana": ["Maanantai","Tiistai","Keskiviikko","Torstai","Perjantai","Lauantai","Sunnuntai"]
+  },
+
+  "pl": {
+    "native_name": "Polski",
+    "hoje": "Dzisiaj",
+    "grafico_gantt": "Wykres Gantta",
+    "equipe": "Zespół",
+    "tarefa": "Zadanie",
+    "meses": ["Styczeń","Luty","Marzec","Kwiecień","Maj","Czerwiec","Lipiec","Sierpień","Wrzesień","Październik","Listopad","Grudzień"],
+    "meses_abreviados": ["Sty","Lut","Mar","Kwi","Maj","Cze","Lip","Sie","Wrz","Paź","Lis","Gru"],
+    "dias_semana": ["Poniedziałek","Wtorek","Środa","Czwartek","Piątek","Sobota","Niedziela"]
+  },
+
+  "ru": {
+    "native_name": "Русский",
+    "hoje": "Сегодня",
+    "grafico_gantt": "Диаграмма Ганта",
+    "equipe": "Команда",
+    "tarefa": "Задача",
+    "meses": ["Январь","Февраль","Март","Апрель","Май","Июнь","Июль","Август","Сентябрь","Октябрь","Ноябрь","Декабрь"],
+    "meses_abreviados": ["Янв","Фев","Мар","Апр","Май","Июн","Июл","Авг","Сен","Окт","Ноя","Дек"],
+    "dias_semana": ["Понедельник","Вторник","Среда","Четверг","Пятница","Суббота","Воскресенье"]
+  },
+
+  "ar": {
+    "native_name": "العربية",
+    "hoje": "اليوم",
+    "grafico_gantt": "مخطط غانت",
+    "equipe": "فريق",
+    "tarefa": "مهمة",
+    "meses": ["يناير","فبراير","مارس","أبريل","مايو","يونيو","يوليو","أغسطس","سبتمبر","أكتوبر","نوفمبر","ديسمبر"],
+    "meses_abreviados": ["ينا","فبر","مار","أبر","ماي","يون","يول","أغس","سبت","أكت","نوف","ديس"],
+    "dias_semana": ["الاثنين","الثلاثاء","الأربعاء","الخميس","الجمعة","السبت","الأحد"]
+  },
+
+  "hi": {
+    "native_name": "हिन्दी",
+    "hoje": "आज",
+    "grafico_gantt": "गैंट चार्ट",
+    "equipe": "टीम",
+    "tarefa": "कार्य",
+    "meses": ["जनवरी","फ़रवरी","मार्च","अप्रैल","मई","जून","जुलाई","अगस्त","सितंबर","अक्टूबर","नवंबर","दिसंबर"],
+    "meses_abreviados": ["जन","फ़र","मार","अप्र","मई","जून","जुल","अग","सित","अक्ट","नव","दिस"],
+    "dias_semana": ["सोमवार","मंगलवार","बुधवार","गुरुवार","शुक्रवार","शनिवार","रविवार"]
+  },
+
+  "zh": {
+    "native_name": "中文",
+    "hoje": "今天",
+    "grafico_gantt": "甘特图",
+    "equipe": "团队",
+    "tarefa": "任务",
+    "meses": ["一月","二月","三月","四月","五月","六月","七月","八月","九月","十月","十一月","十二月"],
+    "meses_abreviados": ["1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],
+    "dias_semana": ["星期一","星期二","星期三","星期四","星期五","星期六","星期日"]
+  },
+
+  "ja": {
+    "native_name": "日本語",
+    "hoje": "今日",
+    "grafico_gantt": "ガントチャート",
+    "equipe": "チーム",
+    "tarefa": "タスク",
+    "meses": ["1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],
+    "meses_abreviados": ["1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],
+    "dias_semana": ["月曜日","火曜日","水曜日","木曜日","金曜日","土曜日","日曜日"]
+  },
+
+  "ko": {
+    "native_name": "한국어",
+    "hoje": "오늘",
+    "grafico_gantt": "간트 차트",
+    "equipe": "팀",
+    "tarefa": "작업",
+    "meses": ["1월","2월","3월","4월","5월","6월","7월","8월","9월","10월","11월","12월"],
+    "meses_abreviados": ["1월","2월","3월","4월","5월","6월","7월","8월","9월","10월","11월","12월"],
+    "dias_semana": ["월요일","화요일","수요일","목요일","금요일","토요일","일요일"]
+  }
+}

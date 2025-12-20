@@ -1,0 +1,63 @@
+td.vazio:hover {
+	background-color: lightgray !important;
+}
+tbody tr:nth-child(even) td {
+      background-color: #f2f2f2;
+}
+
+td.equipe{
+	text-align: center;
+	padding: 0px 1em;
+}
+
+table .tarefa {
+	background: white;
+	padding: 1px 1em 1px 1em;
+}
+table {
+		background: white;
+		border-collapse: collapse;
+		border: 1px solid black;
+}
+table td.vazio {
+	background: white;
+}
+.Sat.vazio, .Sun.vazio, td.Feriado {
+	background-color: gray; opacity: 1 !important;
+}
+table th{
+	border: 1px solid black;
+	background: white;
+}
+table td {
+	border-top: 1px solid black;
+}
+table td.Mon.vazio {
+	border-left: 1px solid black;
+}
+table td.tarefa, table td.equipe {
+		border-right: 1px solid black;
+}
+table td {
+	padding: 0px;
+}
+table .passado {
+	opacity: 0.5;
+}
+table .OK {
+	opacity: 0.75;
+}
+hr.today {
+	margin-top: 0;margin: 0 1.5px 0 1.5px;height: 2em;background: black;border: black;
+}
+.pri{
+	border-radius: 3px 0px 0px 3px;
+	border-left: 3px solid transparent;
+}
+.ult{
+	border-radius: 0px 3px 3px 0px;
+	border-right: 2px solid transparent;
+}
+.gantt{
+	border-bottom: 3px solid transparent;
+} 
