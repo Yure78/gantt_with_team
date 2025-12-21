@@ -8,8 +8,10 @@
 <link rel="stylesheet" href="gantt_with_team.css" >
 <body>
 <?php 
-error_reporting(E_ALL);
-ini_set('display_errors','0');
+/* 
+  Testando commit do meu localhost YAK 21-12-2025
+*/
+
 // Inclusão dos arquivos
 include 'include.php';
 
