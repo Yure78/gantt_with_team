@@ -1,8 +1,8 @@
 # Gantt With Team
 
 ## PT: Um gráfico de Gantt organizado por times. 
-<img width="1317" height="399" alt="ganttWithTeam" src="https://github.com/user-attachments/assets/a6ed11e7-7395-4b23-b97c-74d86b5a6be8" />
 
+<img width="2474" height="547" alt="Captura de tela em 2025-12-21 10-52-30" src="https://github.com/user-attachments/assets/8a1debff-a4ad-410a-b69e-e553daf06f85" />
 
 Com essa biblioteca você consegue criar seu gráfico com poucas linhas.
 
