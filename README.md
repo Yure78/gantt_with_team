@@ -15,6 +15,10 @@ include 'minha_biblioteca/gantt_with_team/include.php';
 $gant = new gantt_with_team('pt_BR');
 ```
 <small>Não esqueça de consultar a nossa lista de idiomas ;)</small>
+No HTML você deve incluir o arquivo com o css base.
+```html
+<link rel="stylesheet" href="includes/classes/gantt_with_team/gantt_with_team.css" >
+```
 
 Agora adicione um time e defina sua cor para o gráfico
 

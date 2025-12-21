@@ -22,7 +22,7 @@ class S_Event {
 class gantt_with_team{
 	public $translate;
 	function __construct($idioma,$title=null,$team=null,$line=null){
-		$this->languages = json_decode(file_get_contents('includes/translate.json'));
+		$this->languages = json_decode(file_get_contents(__DIR__.'/translate.json'));
 		$this->idioma = substr($idioma, 0,2);
 		$this->idioma_completo = $idioma;
 		$idioma = $this->idioma;
@@ -205,37 +205,4 @@ function invertColor($color) {
     $b = (STRLEN($b)>1)?$b:'0'.$b;
     return '#'.$r.$g.$b;
 }
-
-$gant = new gantt_with_team('pt_BR');
-//$gant->fullNameMonths = true;
-//$gant->yearWithTwoDigits = true;
-//$gant->separator = ' / ';
-//$gant->current(new DateTime('2025-01-01'));
-//$gant->date_format('dd/MM EEEE');
-
-$gant->team('BD',green);
-$gant->add('Modelagem',					new S_Event('2025-10-20','2025-10-22','OK'));
-$gant->add('Criacao',  					new S_Event('2025-10-23','2025-10-26','OK'));
-
-$gant->team('Dev',blue);
-$gant->add('Interfaces Comuns',  		new S_Event('2025-10-27','2025-11-16','OK'));
-$gant->add('Administracao',  			new S_Event('2025-11-17','2025-11-30','OK'));
-$gant->add('Responsavel pela Obra',  	new S_Event('2025-12-01','2025-12-14','OK'));
-$gant->add('Usuario da Obra A',  		new S_Event('2025-12-15','2025-12-17','OK'));
-$gant->add('Usuario da Obra B',  		new S_Event('2025-12-18','2025-12-21','Andamento'));
-$gant->add('Fornecedor',  				new S_Event('2025-12-22','2025-12-28'));
-$gant->add('Recesso - Testes',			new S_Event('2025-12-29','2026-01-02','Feriado'));
-$gant->add('Almoxarife',  				new S_Event('2026-01-05','2026-01-11'));
-$gant->add('Solicitante',  				new S_Event('2026-01-12','2026-01-18'));
-$gant->add('Operacoes',  				new S_Event('2026-01-19','2026-01-25'));
-
-$gant->team('QA',purple);
-$gant->add('Testes',  					new S_Event('2025-11-17','2026-01-30','Andamento'));
-
-$gant->team('Suporte',yellow);
-$gant->add('Treinamento',				new S_Event('2026-01-12','2026-02-06'));
-$gant->add('Suporte Tecnico',			new S_Event('2026-02-07','2026-03-31'));
-
-
-echo $gant;
 ?>
