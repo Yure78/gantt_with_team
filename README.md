@@ -21,7 +21,9 @@ include 'minha_biblioteca/gantt_with_team/include.php';
 $gant = new gantt_with_team('pt_BR');
 ```
 <small>Não esqueça de consultar a nossa lista de idiomas ;)</small>
+<p>
 No HTML você deve incluir o arquivo com o css base.
+</p>
 ```html
 <link rel="stylesheet" href="includes/classes/gantt_with_team/gantt_with_team.css" >
 ```
