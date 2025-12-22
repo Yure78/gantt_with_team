@@ -2,6 +2,12 @@
 
 ## PT: Um gráfico de Gantt organizado por times. 
 
+<p align="center">
+  <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/version-1.0-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge"/>
+</p>
+
 <img width="2474" height="547" alt="Captura de tela em 2025-12-21 10-52-30" src="https://github.com/user-attachments/assets/8a1debff-a4ad-410a-b69e-e553daf06f85" />
 
 Com essa biblioteca você consegue criar seu gráfico com poucas linhas.
