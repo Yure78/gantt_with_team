@@ -1,5 +1,6 @@
 <?php 
-
+include __DIR__.'/abstract.classes.php';
+include __DIR__.'/svg.classes.php';
 /* S_Event
  *
  * Simple event
